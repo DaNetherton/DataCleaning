@@ -5,20 +5,20 @@
 * 'activity_labels.txt': Links the class labels with their activity name.
 
 ## train
-*  'X_train.txt': Training set. 
-*  'y_train.txt': Training labels. 
-*  'subject_train.txt' Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+  *  'X_train.txt': Training set. 
+  *  'y_train.txt': Training labels. 
+  *  'subject_train.txt' Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
   
-### train Inertial Signals
-*   body_acc_x_train.txt The body acceleration signal obtained by subtracting the gravity from the total acceleration along x axis.  
-*   body_acc_y_train.txt  along y axis
-*   body_acc_z_train.txt  along z axis
-*   body_gyro_x_train.txt  The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.  along x axis
-*   body_gyro_y_train.txt along y axis
-*   body_gyro_z_train.txt along z axis
-*   total_acc_x_train.txt  The acceleration signal from smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector.
-*   total_acc_y_train.txt along y axis
-*   total_acc_z_train.txt  along z axis
+  ### train Inertial Signals
+    *   body_acc_x_train.txt The body acceleration signal obtained by subtracting the gravity from the total acceleration along x axis.  
+    *   body_acc_y_train.txt  along y axis
+    *   body_acc_z_train.txt  along z axis
+    *   body_gyro_x_train.txt  The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.  along x axis
+   *   body_gyro_y_train.txt along y axis
+   *   body_gyro_z_train.txt along z axis
+   *   total_acc_x_train.txt  The acceleration signal from smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector.
+   *   total_acc_y_train.txt along y axis
+   *   total_acc_z_train.txt  along z axis
 
 ## test
 *  'X_test.txt': Test set. 
