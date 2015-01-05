@@ -8,7 +8,7 @@
 *  'X_train.txt': Training set. 
 *  'y_train.txt': Training labels. 
 *  'subject_train.txt' Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-*  
+  
 ### train Inertial Signals
 *   body_acc_x_train.txt The body acceleration signal obtained by subtracting the gravity from the total acceleration.  
 *   body_acc_y_train.txt 
@@ -18,13 +18,13 @@
 *   body_gyro_z_train.txt 
 *   total_acc_x_train.txt  The acceleration signal from smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector.
 *   total_acc_y_train.txt 
-*   total_acc_z_train.txt
-*   
+*   total_acc_z_train.txt 
+
 ## test
 *  'X_test.txt': Test set. 
 *  'y_test.txt': Test labels. 
 *  'subject_test.txt'
-*  
+
 ###  testInertial Signals 
 *   body_acc_x_test.txt 
 *   body_acc_y_test.txt 
