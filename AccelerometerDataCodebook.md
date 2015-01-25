@@ -42,7 +42,7 @@ the summary dataset, just in case it does, somehow, matter.
 
 AccelerometerData Variable Name|UCI HAR Dataset source Variable Name
 -------------------------------------|------------------------------------------------
-activity|the activity performed by a subject:
+activity| = the activity performed by a subject:
                                      |   WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
                                      |   SITTING, STANDING, or LAYING, 
                                      |   from y_train.txt and y_test.txt files
