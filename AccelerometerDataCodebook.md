@@ -43,25 +43,25 @@ the summary dataset, just in case it does, somehow, matter.
 AccelerometerData                               Name of Field from
 Variable Name                                   UCI HAR Dataset source
 ----------------------------------------------------------------------------------------
-activity                              = the activity performed by a subject:
-                                          WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
-										  SITTING, STANDING, or LAYING, 
-										  from y_train.txt and y_test.txt files
-sid                                   = the subject identification number, from
-                                          subject_train.txt and subject_test.txt files
-tBodyAccStdXMean                      = mean of "tBodyAcc-std()-X"
-tBodyAccStdYMean                      = mean of "tBodyAcc-std()-Y"
-tBodyAccStdZMean                      = mean of "tBodyAcc-std()-Z"
-tGravityAccStdXMean                   = mean of "tGravityAcc-std()-X"
-tGravityAccStdYMean                   = mean of "tGravityAcc-std()-Y"
-tGravityAccStdZMean                   = mean of "tGravityAcc-std()-Z"
-tBodyAccJerkStdXMean                  = mean of "tBodyAccJerk-std()-X"
-tBodyAccJerkStdYMean                  = mean of "tBodyAccJerk-std()-Y"
-tBodyAccJerkStdZMean                  = mean of "tBodyAccJerk-std()-Z"
-tBodyGyroStdXMean                     = mean of "tBodyGyro-std()-X"
-tBodyGyroStdYMean                     = mean of "tBodyGyro-std()-Y"
-tBodyGyroStdZMean                     = mean of "tBodyGyro-std()-Z"
-tBodyGyroJerkStdXMean                 = mean of "tBodyGyroJerk-std()-X"
+activity                             | = the activity performed by a subject:
+                                     |   WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
+                                     |   SITTING, STANDING, or LAYING, 
+                                     |   from y_train.txt and y_test.txt files
+sid                                  | = the subject identification number, from
+                                     |   subject_train.txt and subject_test.txt files
+tBodyAccStdXMean                     | = mean of "tBodyAcc-std()-X"
+tBodyAccStdYMean                     | = mean of "tBodyAcc-std()-Y"
+tBodyAccStdZMean                     | = mean of "tBodyAcc-std()-Z"
+tGravityAccStdXMean                  | = mean of "tGravityAcc-std()-X"
+tGravityAccStdYMean                  | = mean of "tGravityAcc-std()-Y"
+tGravityAccStdZMean                  | = mean of "tGravityAcc-std()-Z"
+tBodyAccJerkStdXMean                 | = mean of "tBodyAccJerk-std()-X"
+tBodyAccJerkStdYMean                 | = mean of "tBodyAccJerk-std()-Y"
+tBodyAccJerkStdZMean                 | = mean of "tBodyAccJerk-std()-Z"
+tBodyGyroStdXMean                    | = mean of "tBodyGyro-std()-X"
+tBodyGyroStdYMean                    | = mean of "tBodyGyro-std()-Y"
+tBodyGyroStdZMean                    | = mean of "tBodyGyro-std()-Z"
+tBodyGyroJerkStdXMean                | = mean of "tBodyGyroJerk-std()-X"
 tBodyGyroJerkStdYMean                 = mean of "tBodyGyroJerk-std()-Y"
 tBodyGyroJerkStdZMean                 = mean of "tBodyGyroJerk-std()-Z"
 tBodyAccMagStdMean                    = mean of "tBodyAccMag-std()"
