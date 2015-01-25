@@ -1,5 +1,6 @@
 # DataCleaning
 This repository contains three files:
+
 1.  README.md (this file), explaining the contents of the other files in this
     repository, 
 2.  run_analysis.R, a program that creates a summary analysis of the UCI HAR
