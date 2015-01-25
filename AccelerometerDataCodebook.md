@@ -15,7 +15,7 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Datas
 
 This summary dataset, which contains the mean of each variable corresponding to a mean
 or standard deviation in the original dataset for each of 180 combinations of 
-activities and subjects was created using data downloaded on Sun Jan 25 11:27:30 2015 
+activities and subjects, was created using data downloaded on Sun Jan 25 11:27:30 2015 
 from the URL above.  
 
 # Abbreviations
