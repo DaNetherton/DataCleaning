@@ -40,9 +40,9 @@ the summary dataset, just in case it does, somehow, matter.
 
 # Concordance of Summary and Source Variable Names
 
-AccelerometerData                               Name of Field from
-Variable Name                                   UCI HAR Dataset source
-----------------------------------------------------------------------------------------
+AccelerometerData                    |           Name of Field from
+Variable Name                        |          UCI HAR Dataset source
+-------------------------------------|---------------------------------------------------
 activity                             | = the activity performed by a subject:
                                      |   WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
                                      |   SITTING, STANDING, or LAYING, 
