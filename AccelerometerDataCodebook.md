@@ -18,19 +18,19 @@ or standard deviation in the original dataset for each of 180 combinations of
 activities and subjects was created using data downloaded on Sun Jan 25 11:27:30 2015 
 from the URL above.  
 
-#Abbreviations
+# Abbreviations
 The concordance below describes the AccelerometerData.txt dataset in terms of each 
 variable's original name.  To shorten the resulting variable names, the following 
 abbreviations and standardizations (brought from variable names in the source data)
 were employed:
 
-*Acc: Acceleration
-*Std: Standard Deviation
-*Gyro: Gyroscope
-*t: time
-*f: Fast Fourier Transform of Frequency
-*Freq: Frequency
-*Mag: Magnitude
+* Acc: Acceleration
+* Std: Standard Deviation
+* Gyro: Gyroscope
+* t: time
+* f: Fast Fourier Transform of Frequency
+* Freq: Frequency
+* Mag: Magnitude
 
 N.B.: In several cases, the original variable names introduced some unpleasant but inexplicable
 repetition in the names of variables in AccelerometerData.txt.  Although nine 
@@ -38,7 +38,7 @@ fields contain the word Body twice (e.g. fBodyBodyAccJerkMagStdMean), which does
 to add any meaning to the labels, that repetition has been retained in labelling
 the summary dataset, just in case it does, somehow, matter.
 
-#Concordance of Summary and Source Variable Names
+# Concordance of Summary and Source Variable Names
 
 AccelerometerData                               Name of Field from
 Variable Name                                   UCI HAR Dataset source
